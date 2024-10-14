@@ -17,8 +17,8 @@ This is my first attempt on cloning a website.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/bitmystic-dev/frontend-mentor-challenges)
-- Live Site URL: [Add live site URL here](https://bitmystic-dev.github.io/frontend-mentor-challenges/1_RecipePage_Lvl1)
+- Solution URL: [https://github.com/bitmystic-dev/frontend-mentor-challenges]
+- Live Site URL: [https://bitmystic-dev.github.io/frontend-mentor-challenges/1_RecipePage_Lvl1/index.html]
 
 ## My process
 
